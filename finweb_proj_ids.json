@@ -1,0 +1,58 @@
+{
+  "TeamMembers": {
+    "Ultra": [
+      "Max Tian",
+      "Evan Yan",
+      "Eliezer Wu"
+    ],
+    "Devops": [
+      "Justin Zhang"
+    ]
+  },
+  "TeamProjIds": {
+    "2018-Q4": {
+      "91": [
+        {
+          "Project": "LEARN0000035NCD",
+          "Activity": "CI_DEVELOP(NCD)"
+        },
+        {
+          "Project": "LEARN0000035NCO",
+          "Activity": "CI_OTHER"
+        }
+      ],
+      "Ultra": [
+        {
+          "Project": "LEARN0000054CAP",
+          "Activity": "CI_DEVELOP"
+        },
+        {
+          "Project": "LEARNULTRAOHD",
+          "Activity": "CI_OTHER"
+        }
+      ],
+      "Devops": [
+        {
+          "Project": "LEARN0000053CAP",
+          "Activity": "CI_DEVELOP"
+        },
+        {
+          "Project": "LEARNSAASOHD",
+          "Activity": "CI_OTHER"
+        }
+      ],
+      "Saastar": [
+        {
+          "Project": "LEARN0000053CAP",
+          "Activity": "CI_DEVELOP"
+        },
+        {
+          "Project": "LEARNSAASOHD",
+          "Activity": "CI_OTHER"
+        }
+      ]
+    },
+    "2019-Q1": {
+    }
+  }
+}
